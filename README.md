@@ -1,9 +1,9 @@
 # VQGAN-CLIP-ENVS
-Anaconda3 environment dumps for running nerdyrodent's VQGAN-CLIP locally with different models.
+Anaconda env dumps for running nerdyrodent's VQGAN-CLIP locally with different models.
 
 ## HOW TO & DIY?
 
-###### Step 1. Install Anaconda3 environments for models you plan to use
+###### Step 1. Install Anaconda environments for models you plan to use
     
 **vqgan-env-gumbel-imagenet** - Env for gumbel and imagenet
    
